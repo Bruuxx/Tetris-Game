@@ -86,7 +86,7 @@ Your nickname, volume, controls, and high scores are saved in `tetris_data.json`
 
 ## Settings in the code
 
-These values are at the top of `Tetris_v2.py` if you want to change how the game feels:
+These values are at the top of `Tetris.py` if you want to change how the game feels:
 
 | Name | Meaning |
 |---|---|
